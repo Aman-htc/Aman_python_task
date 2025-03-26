@@ -33,23 +33,23 @@ if salary.isdigit():
                            else:
                                print('please enter you minimum 10000 and maximum 100000')    
                        else:
-                           print('enter your number')    
+                           print('enter your money')    
                         
                     else:
                         print('please enter you minimum 10000 and maximum 100000')   
                 else:
-                    print('enter your number!')
+                    print('enter your money!')
     
             else:
                 
                 print('please enter you minimum 10000 and maximum 100000')   
 
         else:
-           print('enter your number!')
+           print('enter your money!')
     
     else:
         print('please enter you minimum 10000 and maximum 100000')   
 
 else:
-    print('enter your number!')
+    print('enter your money!')
     
